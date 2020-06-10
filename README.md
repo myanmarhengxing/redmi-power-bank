@@ -1,2 +1,1 @@
-# redmi
-redmi power bank
+"# redmi-power-bank-20000mah" 
